@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1522178565042.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1481460593",
+    "id" : "E9AA1556",
+    "lastKnownWriteTime" : 1522179112,
+    "last_content_update" : -2147483648,
+    "path" : "~/GitHub/latitudinal/data_analysis.R",
+    "project_path" : "data_analysis.R",
+    "properties" : {
+        "cursorPosition" : "6,20",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
