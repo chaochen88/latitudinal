@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1522243487105.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2284489939",
+    "id" : "31BAD8CB",
+    "lastKnownWriteTime" : 1522172977,
+    "last_content_update" : 1522172977,
+    "path" : "C:/Users/Chao Chen/OneDrive/stress tolerance variation/stress tolerance.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "737,9",
+        "scrollLine" : "724"
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
