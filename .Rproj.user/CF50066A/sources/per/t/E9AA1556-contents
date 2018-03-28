@@ -33,10 +33,22 @@ starvation_mean<-ddply(data4,.(latitude,longitude),summarize,starvation=mean(tim
 data5=read_excel("data.xlsx",sheet = "desiccation")
 #mean of each traits
 desi_mean<-ddply(data5,.(latitude,longitude),summarize,desi=mean(time))
-
+mod_desi=lm(time~latitude*sex*longitude,data=data5)
+summary(mod_desi)
 
 full_mean=cbind(meandat,chill_mean,heat_mean,starvation_mean,desi_mean)
 write.csv(full_mean,"full_mean.csv")
+
+
+
+
+
+
+
+mod_gr=lm(growthrate~latitude*sex*longitude,data=data1)
+summary(mod_gr)
+
+
 
 
 
